@@ -1,0 +1,169 @@
+.lister{
+display: flex;
+justify-content: center;
+list-style: none;
+    
+}
+.lister{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    word-spacing: 15px;
+    letter-spacing: 10px;
+    font-weight: bold;
+}
+
+.h2{
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 2em;
+}
+.h3{
+    text-align: center;
+    letter-spacing: 2em;
+    font-size: 2em;
+}
+.img{
+    padding-top: 15px;
+    padding: bottom 15px;
+    margin-left: 30%;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    border-radius: 2px;
+}
+.serie{
+    font-size: 1em;
+    display: flex;
+    text-align: center;
+    color: blueviolet;
+}
+.PROPOS{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: blue; font-weight: bold; background-color: #bfbfbf; word-spacing: 25px; letter-spacing: 25px;
+    margin-left: 100px; margin-right: 100px; border-radius: 25px; padding-top: 20px; padding-bottom: 20px;
+}
+.lorem1{
+    text-align: center;
+    color: green;
+    font-size: 25px;
+}
+
+.header .liste{
+    display: flex;
+    list-style: none;
+    text-align: center;
+    word-spacing: 5px;
+    justify-content: center;
+    word-spacing: 5px;
+    color: blue;
+    font-size: 40px;  
+}
+
+
+.h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.paragraph{
+    text-align: center;
+    text-shadow: 15px;
+}
+.paragraph{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    letter-spacing: 25px;background-color: aquamarine;
+    border-radius: 25px;
+    margin-left: 2em;
+    margin-right: 2em;
+    word-spacing: 20px;
+    margin-bottom: 20px;
+}
+.nouveau{
+    display: flex;
+    justify-content: center; letter-spacing: 5px; background-color: rosybrown;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+.marques{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    word-spacing: 15px;
+    letter-spacing: 20px;
+    color: red;
+    font-weight: bold;
+    background-color: yellow; padding-top: 10px; padding-bottom: 10px; margin-left: 6em; margin-right: 6em;
+    border-radius: 20px;
+}
+.certifie{
+    word-spacing: 15px; letter-spacing: 15px; color: green; font-weight: bold; background-color: aquamarine;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 8em; margin-right: 8em; border-style: groove;
+}
+.formule5{
+color: blueviolet;
+font-weight: bold;
+background-color: rosybrown;
+margin-right: 35em;
+letter-spacing: 8px; border-radius: 3px;
+}
+.boss{
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    letter-spacing: 25px;
+    background-color: blueviolet;
+    border-radius: 15px;
+}
+.audio{
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    margin-left: 30em; margin-right: 30em;
+    border-radius: 15px;
+}
+.table{
+    text-align: center;
+}
+
+.boss2{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: green;
+    font-size: 1em;
+    background-color: aqua;
+    border-radius: 25px;
+}
+
+.tableau-style{
+    border-collapse: collapse;
+    min-width: 400px;
+    width: auto;
+    box-shadow: 0 5px rgba(0,0,0,0,15);
+    cursor: pointer;
+    margin: 100px auto;
+    border: 2px solid midnightblue;
+}
+thead tr{
+    background-color: midnightblue;
+    color: azure;
+    text-align: left;
+}
+th, td{
+    padding: 15px 20px;
+}
+tbody, tr, td, th{
+    border: 1px solid darkgrey ;
+}
+tbody tr:nth-child(event){
+    background-color: azure;
+}
+.btn-sumit{
+    background-color: greenyellow;
+    margin-right: 50em;
+}
